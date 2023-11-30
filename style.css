@@ -1,0 +1,19 @@
+body {
+    background-image: url(image/free-images.avif);
+    background-size: auto;
+
+}
+
+h2 {
+    color: red;
+    text-align: center;
+    border: 5px solid yellow;
+}
+
+ul {
+    list-style-type: none;
+}
+
+h2:hover {
+    cursor: pointer;
+}
